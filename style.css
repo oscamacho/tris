@@ -14,8 +14,8 @@ body {
     gap: 0;
     width: 70vh;
     height: 70vh;
-overflow: hidden;
-
+    overflow: hidden;
+    margin-top: 10%;
     /* transform: scale(.8); */
 }
 .container {
